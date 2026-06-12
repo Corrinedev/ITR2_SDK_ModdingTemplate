@@ -1,0 +1,10 @@
+#include "HS_GrabLocation.h"
+
+UHS_GrabLocation::UHS_GrabLocation(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {
+    this->bIsEditorOnly = true;
+}
+
+void UHS_GrabLocation::DoBeginPlayCheck() {
+}
+
+
