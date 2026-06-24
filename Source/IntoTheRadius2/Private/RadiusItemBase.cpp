@@ -14,6 +14,7 @@ void ARadiusItemBase::Server_ChangeItemDurability_Implementation(const float Del
 }
 
 void ARadiusItemBase::PostInitializeComponents() {
+    Super::PostInitializeComponents();
 }
 
 void ARadiusItemBase::OnReplicatorCreated_Implementation() {

@@ -104,7 +104,7 @@ private:
     
 public:
     UFUNCTION(BlueprintCallable)
-    void PostInitializeComponents();
+    virtual void PostInitializeComponents() override;
     
 protected:
     UFUNCTION(BlueprintCallable, BlueprintNativeEvent)
