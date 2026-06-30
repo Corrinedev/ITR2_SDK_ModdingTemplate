@@ -19,8 +19,10 @@ ZZ_ue4ssMods/
 ConfigOld/
 Content/ITR1/
 Content/_VRE
+pkg/
 Content/AdvancedGlassPack/
 Content/AssetGenerationScripts-main/
+Content/Mods/SleepRespawn
 Plugins/AssetGenerator/
 Plugins/AssetDumper/
 Plugins/JsonAsAsset/
@@ -30,6 +32,7 @@ ModStaging/
 ToJson/
 ModelExports/
 FmodelJsons/
+Content/Mods/SleepRespawn/
 UEAssetToolkit-dev/
 Retoc_Repak_Scripts/
 !ModDirectorContent/Content/
